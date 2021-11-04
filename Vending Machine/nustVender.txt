@@ -1,0 +1,3 @@
+JEL12,Jellies,12.19,30
+CHI10,Chips,10.00,20
+CHE18,Cherry Tots,18.20,25
